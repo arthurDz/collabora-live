@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704364922714,
+      "tag": "0000_bent_malice",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704370961300,
+      "tag": "0001_opposite_the_watchers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704371021831,
+      "tag": "0002_breezy_kingpin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1704372001995,
+      "tag": "0003_stiff_gateway",
+      "breakpoints": true
+    }
+  ]
+}
